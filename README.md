@@ -1,3 +1,3 @@
 # GandyT (Randy)
 
-[![Discord](https://img.shields.io/discord/343440455738064897.svg)](https://discordapp.com/invite/N9QVxbM)
+[![Discord](https://img.shields.io/discord/754767660859916289.svg)](https://discordapp.com/invite/fnF5SCMPDZ)
