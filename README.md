@@ -3,6 +3,7 @@
 computer science enthusiast and youtuber
 
 ![GandyT's GitHub stats](https://github-readme-stats.vercel.app/api?username=GandyT&show_icons=true&theme=tokyonight)
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GandyT&show_icons=true&theme=tokyonight)
 
 [![Discord](https://img.shields.io/discord/754767660859916289.svg)](https://discordapp.com/invite/fnF5SCMPDZ)
