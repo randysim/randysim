@@ -1,4 +1,4 @@
-# GandyT (Randy)
+# GandyT (randy)
 
 computer science enthusiast and youtuber
 
