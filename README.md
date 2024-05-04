@@ -1,4 +1,4 @@
-# GandyT (randy)
+randysim
 
 [![Github](https://img.shields.io/github/stars/gandyt?affiliations=OWNER%2CCOLLABORATOR)](https://github.com/GandyT)
 
