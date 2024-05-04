@@ -1,4 +1,4 @@
-# randysim
+# Randy Sim
 
 [![Github](https://img.shields.io/github/stars/randysim?affiliations=OWNER%2CCOLLABORATOR)](https://github.com/randysim)
 
